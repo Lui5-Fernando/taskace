@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+}
+
+.main-form{
+    background-color: #fdffef;
+    height: 100vh;
+}
+
+#criar-task{
+    outline: none;
+}
